@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
 **hwalan/hwalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👋 Hello, I'm Hwa-Lan, a web developer. </h3>
+<h5> 😄 I mainly do backend development and frontend development as well. </h5>
