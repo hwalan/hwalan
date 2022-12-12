@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 👋 Hello, I'm Hwa-Lan, a web developer. </h3>
-<h5> 😄 I mainly do backend development and frontend development as well. </h5>
+<h3> 👋 Hello, I'm Hwa-Lan </h3>
+
+<span> 😄 I'm a junior web developer. </span> <br>
+<span> 🌱 I mainly do backend development and frontend development as well. </span> <br>
+
+<span> 📧 E-MAIL : ghkfks98@gmail.com </span> <br>
+
+
+
+![hwalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwalan&show_icons=true&theme=graywhite)
