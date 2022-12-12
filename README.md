@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=4C4C4C&fontColor=ffffff&height=200&text=welcome&fontAlign=70&fontAlignY=43&desc=github%20profile&descAlign=79&descAlignY=63" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C4C4C&fontColor=ffffff&height=200&text=welcome&fontAlign=78&fontAlignY=43&desc=github%20profile&descAlign=87&descAlignY=63" />
 
 <div>
   
   <h3> 👋 Hello, This is Park Hwa-Lan.</h3>
+  
+  <span> 😄 As a web developer, I mainly develop backend and also study frontend. </span>
 
-  <span> 😄 I'm a junior web developer. </span> <br>
-  <span> 🌱 I mainly do backend development, but also frontend. </span> <br>
+  <!-- <span> 😄 I'm a junior web developer. </span> <br>
+  <span> 🌱 I mainly do backend development, but also frontend. </span> <br> -->
 
   <span> 📩 Contact : ghkfks98@gmail.com </span> <br>
 
