@@ -87,8 +87,11 @@ Here are some ideas to get you started:
 
   <br>
 
-  <h3> 📌 GitHub State </h3>
+  <h3> 📌 Top Languages </h3>
+  
+  ![hwalan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwalan&layout=compact)
 
-  ![hwalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwalan&show_icons=true&theme=graywhite)
+  <!-- <h3> 📌 GitHub State </h3>
+  ![hwalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwalan&show_icons=true&theme=graywhite) -->
   
 </div>
