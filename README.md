@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4C4C4C&fontColor=ffffff&height=200&text=welcome&fontAlign=78&fontAlignY=43&desc=github%20profile&descAlign=87&descAlignY=63" />
 
 <div>
+   <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23595959&title_bg=%23373737&title=veiws&edge_flat=false"/>
+  </a>
   
   <h3> 👋 Hello, This is Park Hwa-Lan.</h3>
   
@@ -25,8 +28,9 @@ Here are some ideas to get you started:
   <!-- <span> 😄 I'm a junior web developer. </span> <br>
   <span> 🌱 I mainly do backend development, but also frontend. </span> <br> -->
 
-  <span> 📩 Contact : ghkfks98@gmail.com </span> <br>
-
+  <span> 📩 Contact : ghkfks98@gmail.com </span> 
+  
+  <br>
   <br>
 
   <h3> 📌 STACKS </h3>
